@@ -1,7 +1,3 @@
-SubSolver v0.0.1
-
-usage: sub_solver.py [-h] [-c corpus] [-v] input_text
-
 Solves substitution ciphers using a recursive greedy brute-force search
 using a corpus of the top 40000 English words. Corpus included with generator
 script.
